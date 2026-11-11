@@ -1,0 +1,5 @@
+Licensing status
+
+No code license is specified in this distribution. Redistribution and reuse require the applicable permission from the copyright holder.
+
+The associated paper and the public Milling dataset are separate works. Their original terms and attribution requirements apply. The publisher PDF and raw MATLAB dataset are not included here. See data/SOURCE.txt for dataset attribution.

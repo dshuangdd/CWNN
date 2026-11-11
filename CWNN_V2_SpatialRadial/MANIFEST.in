@@ -1,0 +1,2 @@
+include CITATION.cff LICENSING.txt requirements.txt
+include algorithm1.py train.py

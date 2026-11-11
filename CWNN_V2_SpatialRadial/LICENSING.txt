@@ -1,0 +1,5 @@
+Licensing status
+
+No code license is specified in this distribution. Redistribution and reuse require the applicable permission from the copyright holder.
+
+The associated paper is a separate work with its own terms. Cite it using the details in `CITATION.cff` when using this implementation. No third-party dataset is bundled with this V2 implementation.

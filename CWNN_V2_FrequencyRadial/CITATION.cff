@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Please cite the associated paper when using this implementation."
+title: "CWNN V2: constructive wavelet networks"
+type: software
+version: 0.4.3
+authors:
+  - family-names: Huang
+    given-names: Dunsheng
+  - family-names: Shen
+    given-names: Dong
+  - family-names: Lu
+    given-names: Lei
+  - family-names: Tan
+    given-names: Ying
+preferred-citation:
+  type: article
+  title: "Optimizing Basis Function Selection in Constructive Wavelet Neural Networks and Its Applications"
+  authors:
+    - family-names: Huang
+      given-names: Dunsheng
+    - family-names: Shen
+      given-names: Dong
+    - family-names: Lu
+      given-names: Lei
+    - family-names: Tan
+      given-names: Ying
+  journal: "IEEE Transactions on Artificial Intelligence"
+  year: 2025
+  doi: "10.1109/TAI.2025.3621177"

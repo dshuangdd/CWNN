@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cwnn-algorithms"
+version = "0.3.0"
+description = "Reusable constructive wavelet network algorithms for regression"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.23", "scipy>=1.9", "threadpoolctl>=3.1"]
+
+[project.optional-dependencies]
+test = ["pytest>=7", "torch>=2.0"]
+
+[project.scripts]
+cwnn = "cwnn.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["cwnn*"]

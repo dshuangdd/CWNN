@@ -1,0 +1,5 @@
+A. Agogino and K. Goebel (2007), BEST Lab, UC Berkeley.
+Milling Data Set, NASA Prognostics Data Repository, section 3: Milling.
+https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/
+
+The original dataset's terms and attribution requirements apply independently of the code.
